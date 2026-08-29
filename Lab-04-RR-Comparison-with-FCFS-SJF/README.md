@@ -1,4 +1,4 @@
-# Lab 04
+# Lab 03
 
 ## Experiment
 Round Robin (RR) CPU Scheduling Algorithm and its Comparison with FCFS & SJF
